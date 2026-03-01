@@ -1,0 +1,15 @@
+/* ===== Custom Overrides ===== */
+
+#header {
+  text-align: center;
+}
+
+#header .image.avatar {
+  margin: 0 auto;
+  width: 160px;
+}
+
+#header .image.avatar img {
+  width: 160px;
+  border-radius: 50%;
+}
